@@ -4,7 +4,7 @@
 
 # Masquerade
 
-## This project is ABANDONED. Thanks for your support!
+## This project is ABANDONED. So we have forked it for our internal use!
 
 This project has been abandoned. For a better, faster and more maintained alternative, see Smile's [gdpr-dump](https://github.com/smile-SA/gdpr-dump/). We have created our own repository for config files for popular Magento 2 extensions, see [elgentos/gdpr-dump-magento-2-extensions](https://github.com/elgentos/gdpr-dump-magento-2-extensions/).
 
